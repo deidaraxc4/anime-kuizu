@@ -1,0 +1,26 @@
+{
+  "name": "anime-kuizu",
+  "version": "1.0.0",
+  "description": "guess the anime theme song",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deidaraxc4/anime-kuizu.git"
+  },
+  "keywords": [
+    "anime"
+  ],
+  "author": "Nick Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deidaraxc4/anime-kuizu/issues"
+  },
+  "homepage": "https://github.com/deidaraxc4/anime-kuizu#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
